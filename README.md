@@ -30,8 +30,8 @@
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
 <div align="center">
    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  
+  <img src="https://img.shields.io/badge/Jupyter Notebook-FFCA28?style=for-the-badge&logo=jupyternotebook&logoColor=white" alt="JupyterNotebook"/>
+ 
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 <p> Feel free to look inside my Github stats to see how well on I doing projects. Dive in to check out the milestones of my digital journey!</p>
